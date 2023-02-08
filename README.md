@@ -2,7 +2,7 @@
  
 **The hypothesis testing within the project file looks at three questions:**
 
-## 1. Do smokers have higher insurance charges than non-smokers?##
+## 1. Do smokers have higher insurance charges than non-smokers?
 
 This hypothesis test utilized 2 samples/groups being the individual's smoking status (yes/no) and their insurance charges.
 
@@ -11,7 +11,7 @@ It was determined the null hypothesis of *The insurance charges are the same reg
 ![image](https://user-images.githubusercontent.com/114834926/217427173-6762048b-36b6-4a9d-9520-30223f1d6250.png)
 
 
-## 2. Are men more likely to smoke than women?##
+## 2. Are men more likely to smoke than women?
 
 This hypothesis test utilized categorical data with 4 samples/groups to be compared. A chi-square hypothesis test was used. 
 
@@ -20,7 +20,7 @@ It was determined the null hypothesis of *A person's sex does not influence whet
 ![image](https://user-images.githubusercontent.com/114834926/217427787-3f7b74dc-1a15-40b7-a091-55ea1e3fbd8e.png)
 
 
-## 3. Do different regions have different charges, on average?##
+## 3. Do different regions have different charges, on average?
 
 This hypothesis test utilized categorical data with 8 samples/groups to be compared. ANOVA and Tukey was used. 
 
