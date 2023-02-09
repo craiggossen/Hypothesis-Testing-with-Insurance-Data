@@ -26,7 +26,7 @@ This hypothesis test utilized categorical data with 8 samples/groups to be compa
 
 It was determined the null hypothesis of *A person's region does not influence their charge* was rejected as there is a significant difference between the southeast and southwest regions.  
 
-![image](https://user-images.githubusercontent.com/114834926/217428130-976b3a28-d079-4cf7-9bf9-8801ba88bd03.png)
+![image](https://user-images.githubusercontent.com/114834926/217961812-bab89720-003b-4778-abf2-98b69ae457b0.png)
 
 
 ![image](https://user-images.githubusercontent.com/114834926/217428060-f701dc21-c95e-468f-8de5-3aeec224319f.png)
